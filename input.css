@@ -6,6 +6,15 @@
     --cream : hsl(30, 38%, 92%);
 }
 
+h1{
+    font-family: 'Fraunces', sans-serif;
+    font-weight: 700;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+}
 .CARD{
     background-color: var(--cream) ;
 }

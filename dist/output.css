@@ -1899,17 +1899,13 @@ video {
      object-fit: scale-down;
 }
 
-.p-16 {
-  padding: 4rem;
-}
-
 .p-4 {
   padding: 1rem;
 }
 
-.py-40 {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
+.py-3 {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
 }
 
 .text-left {
@@ -2376,6 +2372,17 @@ video {
 
 :root{
   --cream : hsl(30, 38%, 92%);
+}
+
+h1{
+  font-family: 'Fraunces', sans-serif;
+  font-weight: 700;
+}
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
 }
 
 .CARD{
