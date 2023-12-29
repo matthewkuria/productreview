@@ -28,8 +28,7 @@ body{
     font-family: var(--ff-base);
     font-weight: 500;
     font-size: 14px;
+    background-color: var(--cream) ;
+    min-height: 100vh;
 }
 
-.CARD{
-    background-color: var(--cream) ;
-}
