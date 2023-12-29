@@ -4,18 +4,26 @@
 
 :root{
     --cream : hsl(30, 38%, 92%);
+    --ff-base: 'Montserrat', sans-serif;
+    --ff-accent:'Fraunces', sans-serif; 
 }
 
 h1{
-    font-family: 'Fraunces', sans-serif;
+    font-family:var(--ff-accent) ;
     font-weight: 700;
     font-size: 24px;
 }
+
+span{
+    font-family: var(--ff-base);
+}
+
 body{
-    font-family: 'Montserrat', sans-serif;
+    font-family: var(--ff-base);
     font-weight: 500;
     font-size: 14px;
 }
+
 .CARD{
     background-color: var(--cream) ;
 }
