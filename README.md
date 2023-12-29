@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
@@ -90,3 +91,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# productreview
+This is a Frontend mentor challenge done with HTML and Tailwind CSS.This project utilizes a card to display a product.This is hosted on Netlify site as a live project.
+>>>>>>> refs/remotes/origin/main
